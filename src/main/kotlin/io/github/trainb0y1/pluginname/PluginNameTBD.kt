@@ -1,6 +1,5 @@
-package io.github.trainb0y1.playergraves
+package io.github.trainb0y1.pluginname
 
-import org.bukkit.Bukkit
 import org.bukkit.plugin.java.JavaPlugin
 
 
