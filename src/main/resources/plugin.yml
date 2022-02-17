@@ -1,0 +1,8 @@
+main: io.github.trainb0y1.pluginname.PluginNameTBD
+name: PluginNameTBD
+version: 0.1.0-dev
+description: A PaperMC plugin that aims to add RPG/Fantasy elements to Minecraft.
+api-version: 1.18
+author: trainb0y1
+website: https://github.com/trainb0y1/PluginName
+prefix: Plugin Name TBD
